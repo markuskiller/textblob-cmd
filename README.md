@@ -1,7 +1,7 @@
 textblob-cmd
 ============
 
-Command-line wrapper for ``TextBlob``, basically TextBlob for files
+Command-line wrapper for [TextBlob](http://textblob.readthedocs.org/en/dev/), basically TextBlob for files
 
 Currently hosted in private repository.
 
